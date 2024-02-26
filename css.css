@@ -1,0 +1,24 @@
+.border {
+    border: 1px solid red;
+}
+.borderBlue {
+    border: 1px solid blue;
+}
+.row1, .row2, .row3 {
+    margin-bottom: 20px;
+}
+.marginRight {
+    margin-right: 10px;
+}
+.marginLeft {
+    margin-left: 20px;
+}
+.marginTop {
+    margin-top: 30px;
+}
+.marginBottom {
+    margin-Bottom: 40px;
+}
+.margin {
+    margin: 10px 20px;
+}
