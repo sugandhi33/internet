@@ -1,0 +1,18 @@
+h1 { color: red; }
+h2.blue { color: blue; }
+.gray { color: gray; }
+#golden { color: goldenrod; }
+.container :nth-child(3) { background: yellow; }
+ul :nth-child(2n +1){
+    background: pink;
+    margin: 1em;
+    color: white;
+    padding: 1em;
+    margin-top: 2em;
+}
+ul :nth-child(2n){
+    background: gray;
+    padding: 1em;
+    margin: 1em 1em 1em 0;
+    color: white;
+}
