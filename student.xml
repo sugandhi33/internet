@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student SYSTEM "student.dtd">
+<student>
+    <Name>Sugandhi</Name>
+    <USN>ENG22CA0050</USN>
+    <year>2022-2025</year>
+    <Semester>4th semester</Semester>
+</student>

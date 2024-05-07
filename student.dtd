@@ -1,0 +1,9 @@
+<!DOCTYPE student
+ [
+    <!ELEMENT student (Name, USN, year, Semester)>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT USN (#PCDATA)>
+    <!ELEMENT year (#PCDATA)>
+    <!ELEMENT Semester (#PCDATA)>
+]
+>
